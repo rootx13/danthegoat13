@@ -38,11 +38,13 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
 <p align="center">
   <br/>
   <a href="https://www.youtube.com/channel/UCvBPCt843ikfSHTA3ZWBP_g">
-    <img alt="kirioscontact@protonmail.fr" height="50px" width="50px" src="https://s2.qwant.com/thumbr/0x380/7/0/d5e3ad6a974f66eb6af0fb50cba234a465e4bdab810b09b9c6390f058a465c/youtube-logo.png?u=https%3A%2F%2Fwww.hinet.co.id%2Fwp-content%2Fuploads%2F2019%2F03%2Fyoutube-logo.png&q=0&b=1&p=0&a=0"/>
+    <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://s2.qwant.com/thumbr/0x380/7/0/d5e3ad6a974f66eb6af0fb50cba234a465e4bdab810b09b9c6390f058a465c/youtube-logo.png?u=https%3A%2F%2Fwww.hinet.co.id%2Fwp-content%2Fuploads%2F2019%2F03%2Fyoutube-logo.png&q=0&b=1&p=0&a=0"/>
   </a>
-    <img alt="Le Discord en question" width="50px" src="https://discord.gg/plague" />
   </a>
   <a href="https://discord.gg/plague"
+     <img alt="kirioscontact@protonmail.com" height="50px" width="50px"
+  src="https://s1.qwant.com/thumbr/0x380/0/2/1ba845060fddd6610b0d0491b2b7b1b3e18d9a02afff08b1631c74155d068f/discord-computer-icons-logo-portable-network-graphics-wordmark-png-favpng-9t8w94d8D9QJ4p76dTKczCAMp.jpg?u=https%3A%2F%2Fimg.favpng.com%2F24%2F21%2F6%2Fdiscord-computer-icons-logo-portable-network-graphics-wordmark-png-favpng-9t8w94d8D9QJ4p76dTKczCAMp.jpg&q=0&b=1&p=0&a=0"/>
+    
   </a>
 </p>
 
