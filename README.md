@@ -5,13 +5,16 @@
 <p align="center">
   <img align="center" width="50%" alt="GIF" src="https://media2.giphy.com/media/sTm3FmD7knvO0/giphy.gif?cid=ecf05e47n99ta84yasnhndtflvs7is13n0im11yet8iykxss&rid=giphy.gif&ct=g"/>
 </p>
-
+</a>
+</a>
+</a>
 
 
 ### Mes projets 🔨
 
 Je n'en ai pas pour le moment ^^'
-
+</a>
+</a>
 
 <img align="right" width="55%" alt="GIF" src="https://media2.giphy.com/media/4bSoQR9w5h0TC/giphy.gif?cid=ecf05e4793jjn9026h57tyfnm5ej1i8yq0b8aqs03ieluu5r&rid=giphy.gif&ct=g"></img>
 
@@ -28,6 +31,9 @@ Je n'en ai pas pour le moment ^^'
   Error: Too many re-renders. God limits number of
   renders to prevent an infinite loop of stupidity.
   ```
+  </a>
+  </a>
+  </a>
 
 
 ### C'est fini ? Je peux partir ?
@@ -38,7 +44,9 @@ Oui
 
 Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informatique. J'ai également une chaine YouTube, je posterais peut-être bientôt des vidéos sur le Python et autre...
 
-
+  </a>
+  </a>
+  </a>
 
 
 
@@ -51,8 +59,10 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   <a href="https://discord.gg/plague">
     <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://s1.qwant.com/thumbr/299x249/2/e/bd171b131185c00712fa641659ab5ae3ae75af56bc2ff997611e0e24e92e73/th.jpg?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kjfrqerJkc0zZe2KpkHfoAAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"/>
   </a>
-</p>
-
+  </p>
+  </a>
+  </a>
+  </a>
     
     
 > Maintenant, oui. A la prochaine !
