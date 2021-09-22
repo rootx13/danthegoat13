@@ -3,7 +3,7 @@
 ### Je vis en France en Île-de-France, je suis russe et roumain. J'apprends le développement et la cybersecurité.
 
 <p align="center">
-  <img align="center" width="50%" alt="GIF" src="https://media2.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e47gztyg13nh9kuelw3e256vj3nk0z16jamcnx79bvp&rid=giphy.gif&ct=g"/>
+  <img align="center" width="50%" alt="GIF" src="https://media2.giphy.com/media/sTm3FmD7knvO0/giphy.gif?cid=ecf05e47n99ta84yasnhndtflvs7is13n0im11yet8iykxss&rid=giphy.gif&ct=g"/>
 </p>
 
 ### Mes projets 🔨
@@ -46,7 +46,7 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   </a>
 </p>
 
-> Oui
+> Maintenant, oui !
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>
