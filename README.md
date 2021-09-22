@@ -40,13 +40,9 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   <a href="https://www.youtube.com/channel/UCvBPCt843ikfSHTA3ZWBP_g">
     <img alt="kirioscontact@protonmail.fr" height="50px" width="50px" src="https://s2.qwant.com/thumbr/0x380/7/0/d5e3ad6a974f66eb6af0fb50cba234a465e4bdab810b09b9c6390f058a465c/youtube-logo.png?u=https%3A%2F%2Fwww.hinet.co.id%2Fwp-content%2Fuploads%2F2019%2F03%2Fyoutube-logo.png&q=0&b=1&p=0&a=0"/>
   </a>
-  <a href="https://www.rollet-raphael.com/">
-    <img alt="Mon site web" width="50px" src="https://www.rollet-raphael.com/img/logo.d5820305.png" />
+    <img alt="Le Discord en question" width="50px" src="https://discord.gg/plague" />
   </a>
-  <a href="hhtps://discord.gg/plague"
-  </a>
-  <a href="https://www.linkedin.com/in/rollet-raphael/">
-    <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+  <a href="https://discord.gg/plague"
   </a>
 </p>
 
