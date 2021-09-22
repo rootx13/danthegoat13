@@ -1,4 +1,4 @@
-### Bienvenue sur ma page GitHub, je m'apelle Dan.
+### Bienvenue sur ma page GitHub, je m'appelle Dan.
 
 ### Je vis en France en Île-de-France, je suis russe et roumain. J'apprends le développement et la cybersecurité.
 
