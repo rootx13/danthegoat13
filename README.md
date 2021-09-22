@@ -42,7 +42,7 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   <p align="center">
     
   <a href="https://discord.gg/plague">
-    <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://s2.qwant.com/thumbr/474x266/5/9/1ceda4873a12970c2bef2a229e5e2f58f3650addaf417981bd231f63ffff76/th.jpg?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nmHobRJPgkH-7YQqXsbCqwHaEK%26pid%3DApi&q=0&b=1&p=0&a=0"/>
+    <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://s1.qwant.com/thumbr/299x249/2/e/bd171b131185c00712fa641659ab5ae3ae75af56bc2ff997611e0e24e92e73/th.jpg?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.kjfrqerJkc0zZe2KpkHfoAAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"/>
   </a>
 </p>
 
