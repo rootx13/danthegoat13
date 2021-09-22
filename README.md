@@ -3,13 +3,12 @@
 ### Je vis en France en Île-de-France, je suis russe et roumain. J'apprends le développement et la cybersecurité.
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
+  <img align="center" width="60%" alt="GIF" src="https://media2.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e47gztyg13nh9kuelw3e256vj3nk0z16jamcnx79bvp&rid=giphy.gif&ct=g"/>
 </p>
 
-### Pourquoi développeur web et pas astronaute ?
+### Mes projets 🔨
 
-J'ai rapidement été attiré par le développement web et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers le web un mélange de **programmation** et
-de **design** deux éléments qui m'intéressent **grandement.**
+Je n'en ai pas pour le moment.
 
 ### Etude MIT, Harvard ?
 ```javascript
