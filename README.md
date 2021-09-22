@@ -45,7 +45,7 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   <p align="center">
   <br/>
   <a href="https://discord.gg/plague">
-    <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://s1.qwant.com/thumbr/0x380/0/2/1ba845060fddd6610b0d0491b2b7b1b3e18d9a02afff08b1631c74155d068f/discord-computer-icons-logo-portable-network-graphics-wordmark-png-favpng-9t8w94d8D9QJ4p76dTKczCAMp.jpg?u=https%3A%2F%2Fimg.favpng.com%2F24%2F21%2F6%2Fdiscord-computer-icons-logo-portable-network-graphics-wordmark-png-favpng-9t8w94d8D9QJ4p76dTKczCAMp.jpg&q=0&b=1&p=0&a=0"/>
+    <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://s2.qwant.com/thumbr/474x266/5/9/1ceda4873a12970c2bef2a229e5e2f58f3650addaf417981bd231f63ffff76/th.jpg?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nmHobRJPgkH-7YQqXsbCqwHaEK%26pid%3DApi&q=0&b=1&p=0&a=0"/>
   </a>
 </p>
 
