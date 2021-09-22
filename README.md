@@ -6,12 +6,16 @@
   <img align="center" width="50%" alt="GIF" src="https://media2.giphy.com/media/sTm3FmD7knvO0/giphy.gif?cid=ecf05e47n99ta84yasnhndtflvs7is13n0im11yet8iykxss&rid=giphy.gif&ct=g"/>
 </p>
 
+
+
 ### Mes projets 🔨
 
 Je n'en ai pas pour le moment ^^'
 
 
 <img align="right" width="55%" alt="GIF" src="https://media2.giphy.com/media/4bSoQR9w5h0TC/giphy.gif?cid=ecf05e4793jjn9026h57tyfnm5ej1i8yq0b8aqs03ieluu5r&rid=giphy.gif&ct=g"></img>
+
+
 
 **Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
@@ -35,6 +39,9 @@ Oui
 Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informatique. J'ai également une chaine YouTube, je posterais peut-être bientôt des vidéos sur le Python et autre...
 
 
+
+
+
 <p align="center">
   <br/>
   <a href="https://www.youtube.com/channel/UCvBPCt843ikfSHTA3ZWBP_g">
@@ -46,6 +53,8 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   </a>
 </p>
 
+    
+    
 > Maintenant, oui. A la prochaine !
 
 <p align="center">
