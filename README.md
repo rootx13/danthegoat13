@@ -1,9 +1,9 @@
-### Bienvenue sur ma page GitHub, je m'appelle Dan.
+### Bienvenue sur ma page GitHub, je m'appelle Vladislav.
 
 ### Je vis en France en Île-de-France, je suis russe et roumain. J'apprends le développement et la cybersecurité.
 
 <p align="center">
-  <img align="center" width="50%" alt="GIF" src="https://media2.giphy.com/media/sTm3FmD7knvO0/giphy.gif?cid=ecf05e47n99ta84yasnhndtflvs7is13n0im11yet8iykxss&rid=giphy.gif&ct=g"/>
+  <img align="center" width="50%" alt="GIF" src="https://www.kana.fr/assets/uploads/2017/11/hunter-x-hunter-kuroro-lucifuru.gif"/>
 </p>
 <br>
 <br>
@@ -13,7 +13,7 @@
 
 ### Mes projets 🔨
 
-Je n'en ai pas pour le moment ^^'
+Devenir **Pentester**!
 <br>
 <br>
 
@@ -23,11 +23,10 @@ Je n'en ai pas pour le moment ^^'
 
 **Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
-  - [x] Apprendre chaque jour est devenu une habitude (ou presque)
+  - [x] Apprendre chaque jour est devenu une habitude (ou presque ptdr)
   - [x] Devoir résoudre seul des problèmes est une obligation
   - [x] Savoir effectuer des recherches
   - [x] Dormir en cours car le prof est ennuyant *(Critique facile, mais vrai)*
-  - [ ] Voir des personnes plus forte que toi et avoir le seum (pfff pas dutout...)
   ``` 
   Error: Too many re-renders. God limits number of
   renders to prevent an infinite loop of stupidity.
