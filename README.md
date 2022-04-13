@@ -42,13 +42,12 @@ Oui
 > Non.
 
 
-Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informatique.
+Je fais aussi parti d'une équipe informatique sur Discord & Telegram [*Telegram privé*]
 
   <br>
   <br>
-  <br>
 
-
+###SSD ALL
 
 <p align="center">
   <br/>
