@@ -53,7 +53,7 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
 <p align="center">
   <br/>
   <a href="https://discord.gg/ssdfr">
-    <img alt="kirioscontact@protonmail.com" height="50px" width="50px" src="https://e7.pngegg.com/pngimages/144/746/png-clipart-discord-computer-icons-logo-social-media-liens-logo-smiley.png"/>
+    <img alt="kirioscontact@protonmail.com" height="70px" width="70px" src="https://cdn.discordapp.com/icons/955553274512162847/a_24da100c48c955139e6e6941059ac4c1.gif"/>
   <a>
   </p>
   <br>
