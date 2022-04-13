@@ -53,7 +53,7 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
 <p align="center">
   <br/>
   <a href="https://discord.gg/ssdfr">
-    <img alt="kirioscontact@protonmail.com" height="70px" width="70px" src="https://cdn.discordapp.com/icons/955553274512162847/a_24da100c48c955139e6e6941059ac4c1.gif"/>
+    <img alt="kirioscontact@protonmail.com" height="100px" width="100px" src="https://cdn.discordapp.com/icons/955553274512162847/a_24da100c48c955139e6e6941059ac4c1.gif"/>
   <a>
   </p>
   <br>
@@ -61,7 +61,7 @@ Je fais aussi partie d'une communauté de personnes passionné(e)s par l'informa
   <br>
     
     
-> Maintenant, oui. A la prochaine !
+> Maintenant, oui.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://s1.qwant.com/thumbr/0x0/8/8/3c840a41fea0406e8dd37bb3738615ef96001d73bb56dd1bf4237ef294776f/77e5bb7981ad407aa62aa7233f7b5030.gif?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F77%2Fe5%2Fbb%2F77e5bb7981ad407aa62aa7233f7b5030.gif&q=0&b=1&p=0&a=1"/>
